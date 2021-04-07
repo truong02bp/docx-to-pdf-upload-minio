@@ -1,0 +1,2 @@
+- Thêm options -Djava.library.path=$PATH_LIB khi chạy java
+- Note: $PATH_LIB là đường dẫn của lib \PDFNetJava\LIB

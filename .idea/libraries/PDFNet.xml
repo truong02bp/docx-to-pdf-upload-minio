@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PDFNet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PDFNetJava/PDFNetJava/Lib/PDFNet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

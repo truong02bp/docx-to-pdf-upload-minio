@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "minio.bucket.name",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "minio.default.folder",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "minio.access.name",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "minio.access.secret",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "minio.url",
+      "type": "java.lang.String"
+    }
+    ]
+}
