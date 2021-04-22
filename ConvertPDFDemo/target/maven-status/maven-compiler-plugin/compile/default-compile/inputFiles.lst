@@ -1,1 +1,6 @@
-/home/huy/Desktop/ConvertPDF/ConvertPDFDemo/src/main/java/ImageReader.java
+/home/huy/Desktop/ConvertPDF/ConvertPDFDemo/src/main/java/com/minio/ImageReader.java
+/home/huy/Desktop/ConvertPDF/ConvertPDFDemo/src/main/java/com/minio/FileService.java
+/home/huy/Desktop/ConvertPDF/ConvertPDFDemo/src/main/java/com/minio/MinioConfig.java
+/home/huy/Desktop/ConvertPDF/ConvertPDFDemo/src/main/java/com/minio/HomeController.java
+/home/huy/Desktop/ConvertPDF/ConvertPDFDemo/src/main/java/com/minio/MinioService.java
+/home/huy/Desktop/ConvertPDF/ConvertPDFDemo/src/main/java/com/Application.java

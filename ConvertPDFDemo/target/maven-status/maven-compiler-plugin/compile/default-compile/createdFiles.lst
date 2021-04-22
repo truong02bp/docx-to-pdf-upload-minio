@@ -1,0 +1,5 @@
+com/Application.class
+com/minio/HomeController.class
+com/minio/FileService.class
+com/minio/MinioService.class
+com/minio/MinioConfig.class
